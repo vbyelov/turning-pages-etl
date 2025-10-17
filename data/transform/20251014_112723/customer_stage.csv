@@ -1,0 +1,6 @@
+CustomerNK,DisplayName,Phone,HashDiff
+alice@example.com,Alice Cooper,+49-160-111,17e325fa4eb4fcf6c0714a51b660f6f19e5eb318030b58edbaf95fd432b9ba3e
+bob@example.com,Bob Martin,+49-160-222,7041557d6ad41694b6d9a1112a5848553afa1686891698c1a6d03f7769c0b78d
+carol@example.com,Carol Ng,+49-160-333,2153ac1a8069cf7d35f3953976185f5124d1207ff373a8962f3906b8311615b4
+dave@example.com,Dave Thomas,+49-160-444,9f01acefcd646ab2ea41137c7d8f4d267a5e72e18440279099be2072e8b9bddf
+eva@example.com,Eva Müller,+49-160-555,38878184edc6335218a820aa0415b5d74c9db9013cae5ada21db1e806de7009f

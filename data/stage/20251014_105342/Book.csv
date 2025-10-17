@@ -1,0 +1,8 @@
+BookID,ISBN,Title,Author,Language,PublishYear,Pages,ListPrice,CreatedAt,UpdatedAt
+1,9780143127741,The Martian,Andy Weir,EN,2014,387,14.99,2025-10-14 07:20:23,
+2,9780553386790,A Game of Thrones,George R. R. Martin,EN,1996,694,19.99,2025-10-14 07:20:23,
+3,9780307474278,The Road,Cormac McCarthy,EN,2006,304,12.5,2025-10-14 07:20:23,
+4,9780061120084,To Kill a Mockingbird,Harper Lee,EN,1960,336,10.99,2025-10-14 07:20:23,
+5,9780140449266,The Brothers Karamazov,Fyodor Dostoevsky,EN,1880,824,16.5,2025-10-14 07:20:23,
+6,9780134685991,Effective Java,Joshua Bloch,EN,2018,416,45.0,2025-10-14 07:20:23,
+7,9781492055020,Designing Data-Intensive Applications,Martin Kleppmann,EN,2017,616,49.9,2025-10-14 07:20:23,

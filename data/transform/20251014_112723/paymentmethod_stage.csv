@@ -1,0 +1,5 @@
+PaymentMethodNK,PaymentMethodName
+card,Credit/Debit Card
+paypal,PayPal
+bank,Bank Transfer
+cash,Cash on Delivery

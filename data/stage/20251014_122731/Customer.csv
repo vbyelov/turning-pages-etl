@@ -1,0 +1,6 @@
+CustomerID,Email,DisplayName,Phone,AddressLine1,AddressLine2,City,PostalCode,Country,CreatedAt,UpdatedAt
+1,alice@example.com,Alice Cooper,+49-160-111,Mainzer Landstraße 10,,Frankfurt,60329,Germany,2025-10-14 07:20:23,
+2,bob@example.com,Bob Martin,+49-160-222,Kaiserstraße 5,,Frankfurt,60311,Germany,2025-10-14 07:20:23,
+3,carol@example.com,Carol Ng,+49-160-333,Neuer Zollhof 3,,Düsseldorf,40221,Germany,2025-10-14 07:20:23,
+4,dave@example.com,Dave Thomas,+49-160-444,Leipziger Str. 12,,Berlin,10117,Germany,2025-10-14 07:20:23,
+5,eva@example.com,Eva Müller,+49-160-555,Friedrichstr. 22,,Berlin,10117,Germany,2025-10-14 07:20:23,

@@ -1,0 +1,5 @@
+PaymentMethodID,Code,DisplayName,IsActive,CreatedAt,UpdatedAt
+1,CARD,Credit/Debit Card,True,2025-10-14 07:20:23,
+2,PAYPAL,PayPal,True,2025-10-14 07:20:23,
+3,BANK,Bank Transfer,True,2025-10-14 07:20:23,
+4,CASH,Cash on Delivery,True,2025-10-14 07:20:23,
